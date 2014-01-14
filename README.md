@@ -1,5 +1,5 @@
 == Brainstorm
 
-Discuss an ideaa among your peers.
+Discuss an idea among your peers.
 
 Thupten
