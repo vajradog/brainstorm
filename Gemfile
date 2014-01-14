@@ -8,7 +8,7 @@ group :development, :test do
   gem 'sqlite3', '1.3.8'
 end
 
-
+gem 'bcrypt-ruby'
 gem 'sass-rails', '4.0.1'
 gem 'uglifier', '2.1.1'
 gem 'coffee-rails', '4.0.1'
